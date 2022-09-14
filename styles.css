@@ -1,0 +1,31 @@
+body {   
+    font-family: Tahoma;
+    background-color: aliceblue;
+    letter-spacing: 1.5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    border: 3px solid darkslateblue;
+    width: 750px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: plum;
+}
+
+td {
+    background-color: bisque;
+}
+
+.code {
+    font-family: Consolas; 
+}
